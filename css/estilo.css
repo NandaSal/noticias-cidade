@@ -8,3 +8,8 @@ body {
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     background: #fff url(../imgs/fundo.png) repeat-x; /*repetição horizontal*/
 }
+
+#container {
+    width: 750px;
+    margin: 0 auto;
+}
