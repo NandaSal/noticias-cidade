@@ -96,3 +96,15 @@ body.fotos #nav a#fotos {
     width: 180px;
     float: left;
 }
+
+/* footer */
+#container-footer {
+    background: #294c71;
+    padding: 20px;
+}
+
+#footer {
+    width: 750px;
+    margin: 0 auto;
+    color: #fff;
+}
