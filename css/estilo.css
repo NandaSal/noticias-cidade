@@ -86,15 +86,18 @@ body.fotos #nav a#fotos {
 
 #primary {
     float: left;
+    margin: 0 0 20px 195px;
 }
 
 #secondary {
     float: left;
+    margin: 0 0 20px 15px;
 }
 
 #lateral {
     width: 180px;
     float: left;
+    margin: 0 0 20px -750px;
 }
 
 /* footer */
