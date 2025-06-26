@@ -113,6 +113,26 @@ body.fotos #nav a#fotos {
     margin: 0 0 20px -750px;
 }
 
+/* box */
+.box {
+    margin: 10px 0;
+    padding: 5px 0 5px 0;
+    background: #f3f3f3 url(../imgs/fundo-caixa.png);
+}
+
+h2 {
+    font-size: 1em;
+    background: #294c71;
+    color: #fff;
+    padding: 5px;
+}
+
+.box-content {
+    background: #fff;
+    padding: 5px;
+    margin-top: 5px;
+}
+
 /* footer */
 #container-footer {
     background: #294c71;
