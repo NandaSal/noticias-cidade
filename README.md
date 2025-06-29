@@ -12,4 +12,4 @@ HTML and CSS, no frameworks.
 
 ## Live Version
 
-You can visit a live version of the website one: 
+You can visit a live version of the website on: https://noticias-cidade-blush.vercel.app/ 
